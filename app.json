@@ -26,6 +26,9 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "on Ios the initial scale shows the content from middle"
+    "description": "on Ios the initial scale shows the content from middle",
+    "android": {
+      "package": "com.user.howdy-chat"
+    }
   }
 }

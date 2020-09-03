@@ -28,7 +28,7 @@
     },
     "description": "on Ios the initial scale shows the content from middle",
     "android": {
-      "package": "com.user.howdy-chat"
+      "package": "com.user.Kisan-MarketPlace"
     }
   }
 }
